@@ -44,3 +44,26 @@ Aminopenicillins had the highest resistance rates overall. Males showed slightly
 
 ## 🔗 Data Source
 - [European Antimicrobial Resistance Surveillance (EARS) database (Kaggle)](https://www.kaggle.com/datasets/samfenske/euro-resistance)
+
+---
+
+## 🕵️ Analysis
+
+### Resistance by age group
+![Average Antibiotic Resistance (%) by age group (2000-2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Average%20Antibiotic%20Resistance%20(%25)%20by%20Age%20Group%20(2000-2018).png)
+
+### Gender resistance by bacteria
+![Average antibiotic resistance (%) by bacteria and gender (2000 - 2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Average%20Antibiotic%20Resistance%20(%25)%20by%20Bacteria%20and%20Gender%20(2000-2018).png)
+
+### Gender resistance by country
+![Average antibiotic resistance (%) by gender and country (2000-2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Average%20Antibiotic%20Resistance%20(%25)%20by%20Gender%20and%20Country%20%20%20%20%20%20%20(2000%20-%202018).png)
+
+### Child Resistance by Country
+![Average antibiotic resistance (%) in children (0-18) by country (2000-2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Average%20Antibiotic%20Resistance%20(%25)%20in%20children%20(0-18)%20by%20country%20(2000-2018).png)
+
+### Gender resistance by antibiotics
+![Average antibiotic resistance (%) antibiotic and gender (2000-2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Average%20Resistance%20(%25)%20by%20Antibiotic%20and%20Gender%20%20%20(2000-2018).png)
+
+### Resistance trend by bacteria
+![Resistance (%) trends over time by bacteria (2000-2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Resistance(%25)%20trends%20over%20time%20by%20bacteria%20(2000-2018).png)
+
