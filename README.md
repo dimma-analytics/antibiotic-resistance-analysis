@@ -4,6 +4,16 @@ This project explores antibiotic resistance trends across gender, age groups, co
 
 ---
 
+## 📂 Project Structure
+
+- **/data** – Contains the raw dataset and cleaned/split CSV files used in this project.
+- **/analysis** – Includes PNG charts generated during analysis.
+- **/screenshots** – Screenshots of pivot tables and spreadsheet transformations.
+- **insights.md** – Markdown summary of all key insights extracted from the analysis.
+- **README.md** – This file you’re reading now!
+
+---
+
 ## 📊 Tools Used
 - Google Sheets (Data Cleaning, Pivot Tables)
 - Tableau Public (Visualizations)
@@ -24,21 +34,31 @@ This project explores antibiotic resistance trends across gender, age groups, co
 
 ---
 
-## 📸 Screenshots
-All charts, pivots, and visuals used in this project are stored in the `/screenshots/` folder.
-
----
-
-## 📁 Folders
-- `/data/` – raw and cleaned CSV datasets  
-- `/analysis/` – Excel or Google Sheets files  
-- `/screenshots/` – pivot tables, charts, and visuals  
-- `insights.md` – final insights from the analysis
-
----
-
 ## ✅ Key Insight (Summary)
 Aminopenicillins had the highest resistance rates overall. Males showed slightly higher resistance than females in most bacteria, while adults aged 19–64 had the highest resistance across age groups. Romania and Bulgaria had the highest child resistance rates. Resistance in *E. coli* and *Klebsiella pneumoniae* is increasing steadily.
+Read key insights here: (https://github.com/dimma-analytics/antibiotic-resistance-analysis/blob/main/insights.md)
+
+---
+
+## 📸 Screenshots
+All charts, pivots, and visuals used in this project are stored in the `/screenshots/` folder.
+View screenshots here: (https://github.com/dimma-analytics/antibiotic-resistance-analysis/tree/main/screenshots)
+
+---
+
+## 📁 Data
+This folder contains the datasets used throughout the project:
+- **Raw Dataset** – The original Excel file sourced from the European Antimicrobial Resistance Surveillance (EARS) database.
+- **Cleaned Dataset (by Age & Gender)** – Processed versions used to create pivot tables and charts for analysis.
+View datasets here: (https://github.com/dimma-analytics/antibiotic-resistance-analysis/tree/main/data)
+
+---
+
+## 📊 Analysis
+
+This folder contains all final visualizations and charts generated from the cleaned datasets.  
+These include resistance trends over time, comparisons by gender, age group, and bacterial species.
+View charts here: (https://github.com/dimma-analytics/antibiotic-resistance-analysis/tree/main/analysis)
 
 ---
 
@@ -46,24 +66,4 @@ Aminopenicillins had the highest resistance rates overall. Males showed slightly
 - [European Antimicrobial Resistance Surveillance (EARS) database (Kaggle)](https://www.kaggle.com/datasets/samfenske/euro-resistance)
 
 ---
-
-## 🕵️ Analysis
-
-### Resistance by age group
-![Average Antibiotic Resistance (%) by age group (2000-2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Average%20Antibiotic%20Resistance%20(%25)%20by%20Age%20Group%20(2000-2018).png)
-
-### Gender resistance by bacteria
-![Average antibiotic resistance (%) by bacteria and gender (2000 - 2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Average%20Antibiotic%20Resistance%20(%25)%20by%20Bacteria%20and%20Gender%20(2000-2018).png)
-
-### Gender resistance by country
-![Average antibiotic resistance (%) by gender and country (2000-2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Average%20Antibiotic%20Resistance%20(%25)%20by%20Gender%20and%20Country%20%20%20%20%20%20%20(2000%20-%202018).png)
-
-### Child Resistance by Country
-![Average antibiotic resistance (%) in children (0-18) by country (2000-2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Average%20Antibiotic%20Resistance%20(%25)%20in%20children%20(0-18)%20by%20country%20(2000-2018).png)
-
-### Gender resistance by antibiotics
-![Average antibiotic resistance (%) antibiotic and gender (2000-2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Average%20Resistance%20(%25)%20by%20Antibiotic%20and%20Gender%20%20%20(2000-2018).png)
-
-### Resistance trend by bacteria
-![Resistance (%) trends over time by bacteria (2000-2018)] (https://raw.githubusercontent.com/dimma-analytics/antibiotic-resistance-analysis/469efa869b95db9ce3c1c802f6c248bb8692dcbf/analysis/Resistance(%25)%20trends%20over%20time%20by%20bacteria%20(2000-2018).png)
 
